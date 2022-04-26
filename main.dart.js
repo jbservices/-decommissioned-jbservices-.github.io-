@@ -58054,17 +58054,17 @@ return A.X9(A.Ff(A.EQ(A.cT(r,A.fj(A.b([B.eQ,B.yR,B.eC,B.yS,B.yP,B.eC,A.co(s.oR("
 oR(a,b,c,d){var s=null
 return new A.bq(B.lb,A.aaZ(A.fj(A.b([new A.bq(B.K,A.nR(c,100,100),s),new A.bq(B.K,A.ey(a,s,B.tO,s,s),s),B.dZ,new A.bq(B.K,A.ey(b,s,B.tP,s,s),s)],t.p),B.b_,B.a_,B.I),d,10),s)}}
 A.nl.prototype={
-L(a,b){var s=this,r=null,q="Prasanna Shete",p="assets/images/pps.jpg",o="Pramod Shete",n="Advisor",m="Bindhu Haridas",l="assets/images/amma.jpeg",k=t.w,j=b.K(k).f.a,i=t.p,h=A.b([B.eQ,B.yO,B.eC],i)
-if(b.K(k).f.a.a>=1300||A.afj(b))h.push(A.m1(A.b([A.co(s.lS(q,p,"Founder"),B.O),A.co(s.lS(o,"assets/images/pramod.jpeg",n),B.aI),A.co(s.lS(m,l,n),B.bI)],i),B.Dd,B.I))
-if(b.K(k).f.a.a<650)h.push(A.fj(A.b([A.co(s.lS(q,p,"Founder"),B.O),A.co(s.lS(o,"assets/images/man-user.png",n),B.aI),A.co(s.lS(m,l,n),B.bI)],i),B.b_,B.a_,B.I))
-h.push(B.Gf)
-h.push(B.yQ)
-h.push(B.yT)
-h.push(A.co(s.wW("assets/images/gmail.png","E-Mail","jbservices231@gmail.com"),B.bJ))
-h.push(A.co(s.wW("assets/images/call.png","Call us","+91-9284170506"),B.bJ))
-h.push(A.co(s.wW("assets/images/office.png","Coming soon","Our first office will be opening soon in Besa, Nagpur \ud83d\ude0a!"),B.bJ))
-h.push(B.eP)
-return A.X9(A.Ff(A.EQ(A.cT(r,A.fj(h,B.ch,B.cx,B.I),r,new A.ap(0,1/0,j.b,1/0),r,r,r,r,j.a),!0),r),new A.dW(B.uC,new A.mc(r),r))},
+L(a,b){var s=this,r=null,q="Prasanna Shete",p="assets/images/pps.jpg",o="Pramod Shete",n="assets/images/pramod.jpeg",m="Advisor",l="Bindhu Haridas",k="assets/images/amma.jpeg",j=t.w,i=b.K(j).f.a,h=t.p,g=A.b([B.eQ,B.yO,B.eC],h)
+if(b.K(j).f.a.a>=1300||A.afj(b))g.push(A.m1(A.b([A.co(s.lS(q,p,"Founder"),B.O),A.co(s.lS(o,n,m),B.aI),A.co(s.lS(l,k,m),B.bI)],h),B.Dd,B.I))
+if(b.K(j).f.a.a<650)g.push(A.fj(A.b([A.co(s.lS(q,p,"Founder"),B.O),A.co(s.lS(o,n,m),B.aI),A.co(s.lS(l,k,m),B.bI)],h),B.b_,B.a_,B.I))
+g.push(B.Gf)
+g.push(B.yQ)
+g.push(B.yT)
+g.push(A.co(s.wW("assets/images/gmail.png","E-Mail","jbservices231@gmail.com"),B.bJ))
+g.push(A.co(s.wW("assets/images/call.png","Call us","+91-9284170506"),B.bJ))
+g.push(A.co(s.wW("assets/images/office.png","Coming soon","Our first office will be opening soon in Besa, Nagpur \ud83d\ude0a!"),B.bJ))
+g.push(B.eP)
+return A.X9(A.Ff(A.EQ(A.cT(r,A.fj(g,B.ch,B.cx,B.I),r,new A.ap(0,1/0,i.b,1/0),r,r,r,r,i.a),!0),r),new A.dW(B.uC,new A.mc(r),r))},
 wW(a,b,c){var s=null,r=A.NU(10)
 return new A.bq(B.K,A.cT(s,new A.bq(B.K,A.fj(A.b([new A.bq(B.K,A.nR(a,100,100),s),new A.bq(B.eH,A.ey(b,s,B.Ig,s,s),s),new A.bq(B.zf,new A.F5(c,B.Ih,s),s)],t.p),B.b_,B.a_,B.I),s),s,s,new A.ed(B.j,s,s,r,B.lE,s,B.aF),s,s,s,s),s)},
 lS(a,b,c){var s=null,r=A.NU(10)
